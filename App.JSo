@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "apptodolist",
-    "slug": "apptodolist",
+    "name": "apptodolist.PAD",
+    "slug": "apptodolist.PAD",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "apptodolist"
+  "name": "apptodolist.PAD"
 }
